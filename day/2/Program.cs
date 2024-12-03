@@ -1,4 +1,4 @@
-﻿// https://adventofcode.com/2024/day/1
+﻿// https://adventofcode.com/2024/day/2
 // part 1
 var input = File.ReadAllText("input.txt");
 var safeCount = 0;
